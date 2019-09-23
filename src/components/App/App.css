@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  background-color: cadetblue
+}
+
+.App-header {
+  background-color: #222;
+  height: 70px;
+  padding: 20px;
+  color: white;
+}
+
+.Tv-Logo{
+  float: left;
+  padding: 20px
+}
+
+.title{
+  margin: 0%;
+  float: left;
+  color: aliceblue
+}
+.pictures{
+  text-align: center;
+  margin: 10px;
+  color: black;
+  background-color: aliceblue;
+  border: 3px solid black;
+  width: 400px;
+  height: 400px;
+  display: inline-block;
+}
+
+.buttons{
+  color: white;
+  background-color: red;
+  font-size: 20px;
+  justify-content: center
+
+}
